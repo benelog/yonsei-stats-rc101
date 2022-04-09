@@ -1,5 +1,5 @@
 # 컴퓨터 프로그래밍과 진로
-연세대학교 RC101 초청 세미나 발표 자료
+[연세대학교 RC101](https://universitycollege.yonsei.ac.kr/fresh/guidance/education.do) 초청 세미나 발표 자료
 
 - [발표 슬라이드](https://benelog.github.io/yonsei-stats-rc101)
   - [슬라이드 소스](PITCHME.md)
